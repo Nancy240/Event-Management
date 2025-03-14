@@ -1,0 +1,19 @@
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Vite
+dist/
+.vite/
+
+# Development-specific config files
+eslint.config.js
+
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
